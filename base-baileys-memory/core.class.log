@@ -1,0 +1,181 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931998025@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F1816FF0F66662448F',
+    participant: undefined
+  },
+  messageTimestamp: 1701968082,
+  pushName: '._.',
+  broadcast: false,
+  message: Message {
+    conversation: 'alo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'alo',
+  from: '51931998025'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c3b45522-3ff0-443e-9a12-38c92b041d4b',
+  keyword: 'key_3715bf23-bd2e-4604-81ac-92ed0aa4fe69',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7354e5640d7f669144283eaa664e2fb9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c8f3d181-129f-447a-b98d-6beb74feab88',
+  keyword: 'ans_c3b45522-3ff0-443e-9a12-38c92b041d4b',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd6ad68ae34b252e29aa496dd7b6761c9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931998025@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04432EB015E635183C3',
+    participant: undefined
+  },
+  messageTimestamp: 1701968141,
+  pushName: '._.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'documentacion',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'documentacion',
+  from: '51931998025'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_37573d05-4678-4cd8-a505-60398607c8c2',
+  keyword: 'key_b58a31d0-9982-4e93-809b-39ee2e0deaac',
+  answer: '📄 Aquí encontras las documentación recuerda que puedes mejorarla\n' +
+    'https://bot-whatsapp.netlify.app/\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0373d6383e8bd6dc6dce12df6626a90e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931998025@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F3C24C2C448CA92564',
+    participant: undefined
+  },
+  messageTimestamp: 1701968144,
+  pushName: '._.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'documentación',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'documentación',
+  from: '51931998025'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931998025@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB035B5112B5AC9C18840',
+    participant: undefined
+  },
+  messageTimestamp: 1701968149,
+  pushName: '._.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '51931998025'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931998025@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB094654F74812D50C771',
+    participant: undefined
+  },
+  messageTimestamp: 1701968151,
+  pushName: '._.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '51931998025'
+}

@@ -1,0 +1,113 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931998025@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08BF90000D0D26F3E45',
+    participant: undefined
+  },
+  messageTimestamp: 1701969416,
+  pushName: '._.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51931998025'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb16120b-a493-4bb4-adc8-e66614ef9852',
+  keyword: 'key_75dfb061-2331-4934-9d88-bff302795eaf',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0ea95eccda847dce4eb5552c4d374b03'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_af85e549-a7d9-490c-a78c-e1d4f01aecdd',
+  keyword: 'ans_bb16120b-a493-4bb4-adc8-e66614ef9852',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ff2ac1b57bfabb61ea4fa886e45bed9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931998025@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0000F592473E9C0F641',
+    participant: undefined
+  },
+  messageTimestamp: 1701969539,
+  pushName: '._.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'doc',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'doc',
+  from: '51931998025'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_504b65de-4f76-4a57-87ae-d6390d830e6a',
+  keyword: 'key_d5e5316e-ca0a-4e85-8868-e77c6d28f483',
+  answer: '📄 Aquí encontras las documentación recuerda que puedes mejorarla\n' +
+    'https://bot-whatsapp.netlify.app/\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5cc72e8fcaa14a0955071261d2d4b606'
+}
